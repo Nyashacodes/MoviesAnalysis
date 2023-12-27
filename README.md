@@ -5,6 +5,7 @@ Ensure you have Node.js installed on your machine. Then, run the following comma
 
 ```bash
 npm install
+```
 
 ```bash
 npm install node 
