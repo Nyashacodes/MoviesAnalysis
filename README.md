@@ -9,3 +9,6 @@ npm install
 
 ```bash
 npm install node 
+```
+
+![Screenshot](demo.png)
